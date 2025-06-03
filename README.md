@@ -1,4 +1,4 @@
-# 🌟 Welcome to My Web Project – By Shubham Baisakh
+# 🌟 Welcome to My Web Project – By Team Wizards
 
 > A modern, fast, and scalable web application built with love, clean design, and powerful tools ✨
 
@@ -67,7 +67,7 @@ Once deployed, you can easily connect a custom domain through your hosting provi
 
 ## 📌 Author
 
-Made with passion and precision by **Shubham Baisakh**
+Made with passion and precision by **Shubham Baisakh**, **Manish Ahirrao**, **Ansh Jain**
 *“Simple code. Clean UI. Powerful results.”*
 
 ---
